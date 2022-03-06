@@ -24,7 +24,7 @@ bool found=search(arr,10,key);
         cout<<"Key is Present"<<endl;
     }
     else
-    cout<<"key is not present"<<endl;
+    cout<<"Key is not Present"<<endl;
 }
 return 0;
 }
